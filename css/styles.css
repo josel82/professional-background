@@ -1,0 +1,40 @@
+body{
+  margin: 40px 0;
+}
+
+p{
+  text-align: justify;
+}
+
+#avatar{
+  width: 100;
+  height: auto;
+  border-radius: 50%;
+}
+#details > p {
+  margin: 0;
+  padding: 0;
+}
+
+#ident{
+  text-align: center;
+  display: inline-block;
+}
+
+.info{
+  font-size:1.2em;
+}
+
+.headline{
+  color: #52b7eb;
+}
+
+.skills > span{
+  display: inline-block;
+  margin-top: 5px;
+  box-sizing: border-box;
+  padding:5px;
+  border: 2px solid #000;
+}
+
+
